@@ -1,1 +1,1 @@
-# LandingPage
+These project is a Landing page. It's a whole html site, to be honest is my first whole html site with native css. Throught theseproject i'll improve my wait to manage flexbox and other element that i saw before. That's is my base if i do this i'll be more confident and i wanna say programming is not easy but i trust that i can do that, thank you odin project 
