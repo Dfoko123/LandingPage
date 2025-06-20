@@ -1,7 +1,12 @@
+ @font-face {
+        font-family: roboto;
+        src: url(./Roboto/Roboto-VariableFont_wdth\,wght.ttf);
+    }
 body{
-    font-family: roboto;
+    font-family:roboto;
     margin: 0;
     background-color: #1F2937;
+   
 }
 .first{
     
