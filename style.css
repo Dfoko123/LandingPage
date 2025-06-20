@@ -1,0 +1,147 @@
+body{
+    font-family: roboto;
+    margin: 0;
+    background-color: #1F2937;
+}
+.first{
+    
+    display: flex;
+    flex-direction: column;
+    
+    gap: 56px;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    gap: 50px ;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.hearder p{
+    font-size: 24px;
+    color: #f9faf8;
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5efeb;
+}
+.middle{
+    display: flex;
+    justify-content: center; 
+    gap: 460px;
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 0;
+    
+}
+.title p{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900; 
+    width: 300px;
+    margin-bottom: 0;
+}
+
+.contain p{
+    width: 350px;
+    margin:0;
+}
+img{
+    margin-top: 60px;
+    margin-bottom: 140px;
+}
+.description button{
+    background-color: #3882f6;
+    padding: 10px 25px;
+    border-radius: 9px;
+    border: none;
+    text-decoration: none;
+}
+.second{
+    background-color: #e5efeb;
+}
+.second h2{
+    text-align: center;
+    margin: 50px;
+    font-size: 36px;
+    color:#1f2937 ;
+    font-weight: 900;
+}
+.contain-two{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+
+}
+.contain-two .card{
+    margin: 0;
+    width: 145px;
+    height: 145px;
+    border: 3px solid blue;
+    border-radius: 9px;
+}
+.contain-two p{
+    width: 140px;
+    text-align: center;
+}
+.thirth{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+blockquote p{
+    font-size: 36px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+}
+blockquote{
+    width: 900px;
+}
+blockquote footer{
+    margin-left: 73%;
+    font-weight: 900;
+    margin-bottom: 60px;
+}
+.fourth{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    background-color: #e5efeb;
+}
+.fourth .card{
+    background-color: #3882f6;
+    width: 1100px;
+    height: 200px;
+    border-radius: 9px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.fourth button{
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 12px 50px;
+    background-color: #3882f6;
+    border-radius: 9px;
+    color: #e5e7eb;
+}
+.fifth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
